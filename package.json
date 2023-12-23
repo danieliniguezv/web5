@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@web5/api": "^0.8.3"
+  },
+  "type": "module"
+}
