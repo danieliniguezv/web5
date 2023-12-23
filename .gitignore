@@ -1,6 +1,6 @@
 # Ignore dependencies and package files
-/node_modules/
-/package-lock.json
+node_modules/
+package-lock.json
 
 # Ignore DATA directory
-/DATA/
+DATA/
